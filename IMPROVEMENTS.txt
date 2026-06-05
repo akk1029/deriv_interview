@@ -1,0 +1,4 @@
+1. optimize chunk size to get only required answer.
+2. Add the line spacing in the answer to separate answer, source, context status
+3. modify helper funciton to optimize chunks and overlaps.
+4. add pytest funcitons to check the possible errors. 
